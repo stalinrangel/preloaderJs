@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://stalinrangel.github.io/preloaderJs/imagem.svg';
+svgImage.src = 'https://stalinrangel.github.io/preloaderJs/imagem.gif';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
